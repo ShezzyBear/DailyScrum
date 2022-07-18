@@ -8,10 +8,13 @@
 #### What will you do today? :running::dash:
 
 :star: AZ-15
+
 :star: AZ-16
+
 :star: AZ-44
+
 :star: AZ-49
 
 #### :triangular_flag_on_post::no_entry: Are there any roadblocks? :no_entry::triangular_flag_on_post:
 
-There are no current roadblocks :grey_exclamation:
+:white_check_mark: There are no current roadblocks
