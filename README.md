@@ -1,5 +1,5 @@
-Hey, I'm Shez!
+##### Hey, I'm Shez! :wave:
 
-Welcome to my Daily Scrum entries.
+Welcome to my Daily Scrum entries. :notebook:
 
-This is for documentation and daily accountability.
+This is for documentation and daily accountability. :books:
