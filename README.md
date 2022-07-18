@@ -1,20 +1,5 @@
-# DailyScrum - Entry #1
-## :ocean: July 18th, 2022 :ocean:
+Hey, I'm Shez!
 
-#### What did you do yesterday? :calendar::arrows_counterclockwise:
+Welcome to my Daily Scrum entries.
 
-:boom: Caught up on confluence page updates
-
-#### What will you do today? :running::dash:
-
-:star: AZ-15
-
-:star: AZ-16
-
-:star: AZ-44
-
-:star: AZ-49
-
-#### :triangular_flag_on_post::no_entry: Are there any roadblocks? :no_entry::triangular_flag_on_post:
-
-:white_check_mark: There are no current roadblocks
+This is for documentation and daily accountability.
