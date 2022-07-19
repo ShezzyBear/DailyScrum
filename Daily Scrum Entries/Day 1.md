@@ -17,4 +17,4 @@
 
 #### Are there any roadblocks? :triangular_flag_on_post:
 
-:white_check_mark: There are no current roadblocks
+:white_check_mark: There are no current roadblocks!
