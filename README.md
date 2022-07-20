@@ -1,4 +1,4 @@
-![Header](https://github.com/ShezzyBear/DailyScrum/blob/main/Templates/Daily Scrum Banner.png?raw=true)
+![Header](https://github.com/ShezzyBear/DailyScrum/blob/main/Templates/Daily%20Scrum%20Banner.png?raw=true)
 
 Glad you could stop by, I'm Shez! :wave:
 
