@@ -7,7 +7,7 @@
 
 #### What will you do today? :running::dash:
 
-:star: Strategize remianing modules
+:star: Strategize remaining modules
 
 #### Are there any roadblocks? :triangular_flag_on_post:
 
